@@ -1,0 +1,48 @@
+.card-title{
+    background-color: rgb(19, 119, 19);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.card-title>img{
+    float: left;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+.boy1no{
+    float: left;
+    margin-top: 25px;
+    margin-left: 6px;
+    font-size: 18px;
+}
+.content{
+    background-image: url(/Images/whatsapp\ chat\ background\ image.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-top: -10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.input{
+    margin-left: -10px;
+    float: left;
+    margin-top: 17px;     
+}
+.bottom{
+    margin-top: -80px;
+}
+.send{
+    float: left;
+    margin-left: 5px; 
+    margin-top: 17px;
+}
+.icon{
+    margin-left: -3px;
+    
+
+}
+.message{
+    width: max-content;
+    background-color: whitesmoke;
+}
+
